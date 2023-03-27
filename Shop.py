@@ -24,8 +24,9 @@ def shopping():
         for choice2 in shop:
             if money_available > choice2['price']:
                 print('You can afford a', choice2['name'])
+
             #if money_available < choice(int['price']):
-                print('You cannot afford this')
+                #print('You cannot afford this')
 
 
 

@@ -1,4 +1,4 @@
-x# Section 1
+
 ### Theory Questions: Foundation Asessment
 
 1. What does SDLC stand for? <br>
